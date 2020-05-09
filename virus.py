@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat May  9 22:29:03 2020
-
-@author: User
 """
 
 from abc import ABC, abstractmethod #abstract metod
