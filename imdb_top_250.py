@@ -30,7 +30,3 @@ for col,rat in zip(column,rating):
     
     if (float(rat) > min_rating):
         print("Movie is {} and Rating is {}".format(col,rat))
-    
-
-
-
