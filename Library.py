@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 29 16:34:49 2020
-
-@author: User
-"""
-
 import sqlite3
 
 import time
