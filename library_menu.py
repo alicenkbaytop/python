@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May 29 17:08:40 2020
-
-@author: User
-"""
-
 from Library import *
 
 print("""
